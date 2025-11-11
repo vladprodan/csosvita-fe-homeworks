@@ -4,7 +4,7 @@
 **Опис:** Створіть базову HTML-розмітку для головної сторінки інтернет-магазину.
 Створіть базову розмітку для одної карточки товару.
 
-**Посилання на Figma:** [Figma](https://www.figma.com/design/WvUMhBBS5NocawoIWGU3Pp/Coffee-Website?node-id=102-2916&t=MMYQiA9KGeS2meYB-1)
+**Посилання на Figma:** [Figma](https://www.figma.com/design/Uf8R33TIZLjyYhA1T30GBl/-OWN--Imaji-Coffee-Website---Coffee-Shop---E-Commerce-Website-UI-Kit--Community-?node-id=89-1150&t=lyZOvFN94N9ylLsb-1)
 
 **Корисні посилання:**
 - [HTML for Beginners – HTML Basics With Code Examples](https://www.freecodecamp.org/news/introduction-to-html-basics/)
